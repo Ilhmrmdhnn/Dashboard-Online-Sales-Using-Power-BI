@@ -1,8 +1,7 @@
 # Dashboard-Online-Sales-Using-Power-BI
-Dashboard Online Sales Using Power BI
-![card9](https://github.com/user-attachments/assets/0cff56f1-d630-4f17-926f-544263e9df3e)
-
 This comprehensive online sales dashboard, provides a detailed analysis of sales data across multiple dimensions. It offers various interactive features and visualizations to help stakeholders gain actionable insights into sales performance.
+
+![card9](https://github.com/user-attachments/assets/0cff56f1-d630-4f17-926f-544263e9df3e)
 
 ## Key Features:
 
